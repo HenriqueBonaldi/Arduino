@@ -18,7 +18,7 @@ const char* ssid = "VIVOFIBRA-xxxx";
 const char* password = "xxxxxxx";
 
 // Router mobile network
-//const char* ssid = "Galaxy A21s4520";
+//const char* ssid = "Galaxy A21sxxxx";
 //const char* password = "xxxxxx";
 
 // Connect ESP
