@@ -18,7 +18,7 @@ Solution utilizing Arduino and ESP8266 chips to track coordinates in the applica
 #include "I2Cdev.h"
 ```
 
-\## 🛠️ Registration
+## 🛠️ Registration
 
 ```
 // Replace with your network credentials
