@@ -4,7 +4,7 @@ Solution utilizing Arduino and ESP8266 chips to track coordinates in the applica
 
 ## 🛠️ Installation
 
-```bash
+```
 #include <Arduino.h>
 #include <ArduinoJson.h>
 
