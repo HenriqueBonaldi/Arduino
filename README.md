@@ -1,22 +1,6 @@
 # Arduino and ESP8266 chip 
 
-Solution utilizing Arduino and ESP8266 chips to track coordinates in the applicable object in real time feeding data to Google Sheets
-
-## 🛠️ Installation
-
-```
-#include <Arduino.h>
-#include <ArduinoJson.h>
-
-#include <ESP8266WiFi.h>
-#include <ESP8266WebServer.h>
-#include <ESP8266HTTPClient.h>
-
-#include <WiFiClientSecureBearSSL.h>
-#include <Wire.h>
-#include <MPU6050.h>
-#include "I2Cdev.h"
-```
+Solution utilizing Arduino IDE and ESP8266 chip to track x,y,z coordinates in real time feeding data to Google Sheets
 
 ## 🛠️ Registration
 
